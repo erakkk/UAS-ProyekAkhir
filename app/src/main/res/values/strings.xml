@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="title_product">Title product</string>
+    <string name="title_price">Title price</string>
+    <string name="filler_text">Description</string>
+    <string name="text">
+        <h1>Persyaratan Rental mobil untuk perusahaan :</h1>\n\n
+        <ul type="disc">
+            <li>Fotokopi SITU SIUP TDP dan NPWP</li>\n
+            <li>Surat pemesanan kendaraan</li>\n
+            <li>Fotokopi KTP direksi, atau pejabat yang bertanggung jawab</li>\n
+            <li>Surat kuasa bila bukan direktur perusahaan yang bertanggung jawab</li>\n
+            <li>Fotokopi SIM pengemudi</li>\n
+            <li>Bersedia untuk kami survey kantor dan tempat tinggal pemohon</li>\n
+        </ul>
+        \n\n
+        <h1>Persyaratan Rental mobil untuk perorangan :</h1>\n\n
+        <ul type="disc">
+            <li>Mengisi formulir biodata penyewa</li>\n
+            <li>Fotokopi NPWP</li>\n
+            <li>Fotokopi KK</li>\n
+            <li>Bersedia untuk kami survey alamat dan tempat tinggal anda</li>\n
+            <li>Fotokopi SIM pengemudi</li>\n
+            <li>EKTP disimpan selama masa sewa</li>\n
+        </ul>
+        \n\n
+        <h1>Penyewa dilarang melalukan :</h1>\n\n
+        <ul type="disc">
+            <li>Menggadaikan kendaraan</li>\n
+            <li>Menyewakan kembali ke orang lain</li>\n
+            <li>Menjual kendaraan</li>\n
+            <li>Memindah tangankan sewa</li>\n
+            <li>Menggunakan mobil untuk mengikuti kejahatan</li>\n
+            <li>Masa sewa 1 bulan dihitung 30 hari</li>\n
+            <li>Dilarang meninggalkan STNK, kunci kontak dan parkir di dalam kendaraan yang sedang parkir </li>\n
+        </ul>
+
+
+        \n\n
+        <h1>Persyaratan sewa harian :</h1>\n\n
+        <ul type="disc">
+            <li>Diberikan identitas diri</li>\n
+            <li>Membayar sewa minimal 50% sebelum menerima mobil dari pool</li>\n
+        </ul>
+
+        \n\n
+        <h1>Ketentuan dan persyaratan untuk menyewa mobil lepas kunci itu tentunya tidak sama di antara rental mobil yang satu dengan rental mobil yang lainnya. Namun umumnya, setiap penyewa harus memenuhi beberapa dokumen untuk jaminan sewa, seperti kartu identitas KTP, SIM, uang deposit, pasport, STNK, dll.</h1>\n\n
+        \n\n<h1>Jika Anda menemukan sebuah rental mobil yang berani menyewakan mobil tanpa jaminan ataupun tanpa persyaratan khusus, Anda harus segera memeriksa lagi apakah perusahaan rental itu resmi atau tidak. Lalu, seperti apakah persyaratan yang harus dipenuhi ketika menyewa mobil lepas kunci itu?</h1>
+
+    </string>
+
+
+    <string-array name="nama_produk">
+        <item>Avanza</item>
+        <item>Mini Cooper</item>
+        <item>Honda Jazz</item>
+        <item>BMW</item>
+    </string-array>
+
+    <string-array name="harga_produk">
+        <item>200000</item>
+        <item>250000</item>
+        <item>150000</item>
+        <item>400000</item>
+    </string-array>
+
+    <string-array name="gambar_produk">
+        <item>@drawable/avanza</item>
+        <item>@drawable/mini</item>
+        <item>@drawable/jazz</item>
+        <item>@drawable/bmw</item>
+    </string-array>
+
+    <string-array name="deskripsi_produk">
+        <item>
+        Kapasitas : 4 orang \n
+        Warna : putih\n
+        </item>
+        <item>
+        Kapasitas : 2 orang\n
+        Warna : orange\n
+        </item>
+        <item>
+        Kapasitas : 4 orang\n
+        Warna : coklat\n
+        </item>
+        <item>
+        Kapasitas : 4 orang\n
+        Warna : biru\n
+        </item>
+    </string-array>
+
+</resources>
